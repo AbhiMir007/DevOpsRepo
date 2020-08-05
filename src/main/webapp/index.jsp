@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-        Hello from index jsp page!!
+    <p style="color:Pink">Hello smita !!<b>aie la boliv</b>.</p
+        
 </body>
 </html>
