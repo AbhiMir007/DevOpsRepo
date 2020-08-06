@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-        Hello from index jsp page!!
+        Hello Smita!!
 </body>
 </html>
