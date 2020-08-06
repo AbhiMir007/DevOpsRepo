@@ -7,6 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-        Hello Smita!!
+
+    <p style="color:Pink">Hello smita !!<b>aie la boliv</b>.</p>
+        
+
 </body>
 </html>
